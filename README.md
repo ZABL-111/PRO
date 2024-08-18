@@ -20,7 +20,7 @@ pkg install python2
 
 pip install requests
 
-pip install mechanize
+'pip install mechanize'
 
 pkg install python2 git nodejs
 
