@@ -1,27 +1,36 @@
-
-<h2 align="center">  FB CLONING TOOL </h2>
-
-
-## <b>installation</b>
-
-🔰 _CLONE FULL OK IDZ_
-
-
-- `pkg update`
-- `pkg upgrade`
-- `pkg install git`
-- `pkg install python`
-- `pip install requests`
-- `pip install bs4 httpx`
-- `rm -rf PRO`
-- `git clone --depth=1 https://github.com/ZABL-111/PRO.git`
-- `cd PRO`
-- `python PRO.py`
+💥Welcome💥
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 
 
- ___This Tools is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-JAHID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801917466867)
+AUTHOR:
+<p align="center">
+HAMZA KHAN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 
+</br>
+<p align="center">
 
-# PRO
+<h2>_RUN_COMMAND 🔰» </h2>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=PAID+AND+FREE+MIX+COMMAND+ENJOY+DEAR%F0%9F%A4%9F)](https://git.io/typing-svg)
+
+```
+pkg update && pkg upgrade -y
+pkg install git
+pkg install python -y
+cd $HOME
+rm -rf PRO
+git clone https://github.com/ZABL-111/PRO
+cd PRO
+python PRO.py
+
+___This Tools is paid and Free There are both.___</br>
+
+cd PRO
+python PRO-X.py
+```
+
+___This Tools is paid and Free There are both.___</br>
+
+ENJOY THIS TOOL=<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
